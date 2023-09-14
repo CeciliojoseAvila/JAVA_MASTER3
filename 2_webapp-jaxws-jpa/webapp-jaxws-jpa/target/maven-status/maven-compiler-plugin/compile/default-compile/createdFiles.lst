@@ -1,0 +1,6 @@
+org\cavila\webapp\jaxws\services\CursoServicioWsImpl.class
+org\cavila\webapp\jaxws\models\Curso.class
+org\cavila\webapp\jaxws\repositories\CursoRepository.class
+org\cavila\webapp\jaxws\repositories\CursoRepositoryImpl.class
+org\cavila\webapp\jaxws\ProducerEntityManager.class
+org\cavila\webapp\jaxws\services\CursoServicioWs.class

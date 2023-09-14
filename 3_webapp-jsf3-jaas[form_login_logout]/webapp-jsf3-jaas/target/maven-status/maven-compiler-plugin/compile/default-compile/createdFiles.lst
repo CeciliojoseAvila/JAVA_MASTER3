@@ -1,0 +1,14 @@
+org\cavila\webapp\jsf3\controllers\LogoutController.class
+org\cavila\webapp\jsf3\entities\Producto.class
+org\cavila\webapp\jsf3\repositories\ProductoRepository.class
+org\cavila\webapp\jsf3\controllers\ProductoController.class
+org\cavila\webapp\jsf3\entities\Categoria.class
+org\cavila\webapp\jsf3\services\ProductoService.class
+org\cavila\webapp\jsf3\repositories\CategoriaRepositoryImpl.class
+org\cavila\webapp\jsf3\services\ProductoServiceImpl.class
+org\cavila\webapp\jsf3\converters\CategoriaConverter.class
+org\cavila\webapp\jsf3\controllers\LenguajeController.class
+org\cavila\webapp\jsf3\repositories\CrudRepository.class
+org\cavila\webapp\jsf3\ProducerResources.class
+org\cavila\webapp\jsf3\repositories\ProductoRepositoryImpl.class
+org\cavila\webapp\jsf3\ProducerEntityManager.class

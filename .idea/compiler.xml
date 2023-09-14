@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webapp" />
+        <module name="webapp-jpa" />
+        <module name="webapp-jpa (1) (org.aguzman.apiservlet.webapp.jpa)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="webapp" target="20" />
+      <module name="webapp-jpa" target="20" />
+      <module name="webapp-jpa (1) (org.aguzman.apiservlet.webapp.jpa)" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

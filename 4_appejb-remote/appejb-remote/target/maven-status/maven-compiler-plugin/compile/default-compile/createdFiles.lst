@@ -1,0 +1,3 @@
+org\cavila\webapp\ejb\models\Producto.class
+org\cavila\webapp\ejb\service\ServiceEjb.class
+org\cavila\webapp\ejb\service\ServiceEjbRemote.class
